@@ -1,6 +1,15 @@
+body {
+  font-family: "Comfortaa" ;
+}
+
+h2 {
+  margin-bottom: 1rem;
+}
+
+
 .body {
-  max-width: 750px;
-  width: 80%;
+  max-width: 1000px;
+  width: 90%;
   margin: auto;
 }
 
@@ -17,9 +26,57 @@
   margin-bottom: 1rem;
 }
 
-.yokoponzoo-my-name {
+.yokoponzoo-snsicon {
+  margin: 1rem;
+}
+
+.yokoponzoo-snsicon a {
+  color: #69707a;
 }
 
 .copyright {
   margin-bottom: 1.5rem;
+}
+
+.yokoponzoo-timeline-h {
+  font-weight: bold;
+}
+
+.yokoponzoo-timeline-h a {
+  color: #69707a;
+  text-decoration: underline;
+}
+
+.yokoponzoo-timeline-h a:hover {
+  color: #1fc8db;
+}
+
+.yokoponzoo-text-centered {
+  margin: auto;
+  text-align: left;
+}
+
+
+.yokoponzoo-about-image {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  margin-left: auto;
+}
+
+.yokoponzoo-coloring img {
+  height: 13rem;
+  width: auto;
+  display: inline-block;
+  object-fit: contain
+}
+
+.yokoponzoo-qualifications-image {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  margin-left: auto;
+  height: 7.5rem;
 }
