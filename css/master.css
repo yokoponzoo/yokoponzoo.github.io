@@ -78,5 +78,5 @@ h2 {
   -webkit-align-items: center;
   align-items: center;
   margin-left: auto;
-  height: 7.5rem;
+  max-height: 7.5rem;
 }
