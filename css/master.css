@@ -80,3 +80,13 @@ h2 {
   margin-left: auto;
   max-height: 7.5rem;
 }
+
+.yokoponzoo-tags {
+  text-align: center;
+  width: 90%;
+}
+
+.yokoponzoo-tag {
+  border: 0.1rem solid;
+  border-color: #69707a;
+}
