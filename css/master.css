@@ -91,3 +91,8 @@ h2 {
 .yokoponzoo-tag {
   margin-bottom: 10px;
 }
+
+.yokoponzoo-ul {
+  list-style-type: disc;
+  padding-left: 1rem;
+}
